@@ -171,4 +171,8 @@ public class MainActivity extends AppCompatActivity {
         displayOperation.setText(pendingOperation);
     }
 
+    public String returnName() {
+        return "I was here";
+    }
+
 }
