@@ -5,4 +5,7 @@ package com.example.calculator;
  */
 
 public class TestClass {
+    public TestClass() {
+        super();
+    }
 }
